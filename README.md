@@ -7,5 +7,9 @@ Regression_test:
 
 petal_test:
     Basic model for indicating the flower species using 4 features 
+    
+
+Stock_analysis:
+    Model for predicting Apple stock prices. Two files using the same models. One imports pretrained model while other file Trains the models similar to other algorithms
 
 Project was taken from Tensorflow Tutorials
