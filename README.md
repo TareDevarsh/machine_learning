@@ -12,3 +12,8 @@ petal_test:
 Stock_analysis:
     Model for predicting Apple stock prices. Two files using the same models. One imports pretrained model while other file Trains the models similar to other algorithms
 
+covid19_anaysis:
+    Predicting future cases confirmed due to current 2020 covid19 pandemic situation using FaceBook's Prophet 
+    
+time_series:
+    Predicting Time Series data using LSTM
