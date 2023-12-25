@@ -6,7 +6,7 @@ This project utilizes the Titanic Survivors dataset and a Linear Classification 
 
 ### Usage
 
-- Run the `regression_test.py` script to apply the linear regression model to the Titanic Survivors dataset.
+- Run the Regression_test.ipynb` script to apply the linear regression model to the Titanic Survivors dataset.
 
 ## petal_test
 
@@ -14,7 +14,7 @@ This project involves a basic model for indicating flower species using four fea
 
 ### Usage
 
-- Execute the `petal_test.py` script to apply the basic model for flower species classification.
+- Execute the `petal_test.ipynb` script to apply the basic model for flower species classification.
 
 ## Stock_analysis
 
@@ -22,8 +22,8 @@ This project includes a model for predicting Apple stock prices. There are two f
 
 ### Usage
 
-- Run the `stock_analysis_import.py` script to use the pretrained model.
-- Execute the `stock_analysis_train.py` script to train the model with additional algorithms.
+- Run the `Stock_anaysis_pretrained.ipynb` script to use the pretrained model.
+- Execute the `Stock_market_RNN.ipynb` script to train the model with additional algorithms.
 
 ## covid19_analysis
 
@@ -31,7 +31,7 @@ This project focuses on predicting future confirmed COVID-19 cases using Faceboo
 
 ### Usage
 
-- Run the `covid19_analysis.py` script to predict future COVID-19 cases using Facebook's Prophet.
+- Run the `covid19_anaysis.ipynb` script to predict future COVID-19 cases using Facebook's Prophet.
 
 ## time_series
 
@@ -39,5 +39,5 @@ This project involves predicting time series data using Long Short-Term Memory (
 
 ### Usage
 
-- Execute the `time_series.py` script to apply LSTM for time series prediction.
+- Execute the `Time_series_data.ipynb` script to apply LSTM for time series prediction.
 
